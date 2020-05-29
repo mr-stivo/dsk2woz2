@@ -1,5 +1,5 @@
 # dsk2woz2
-A command-line tool to convert Apple II DSK images to WOZ2 format.
+A command-line tool to convert Apple II DSK images to WOZ2 format. Based on Tom Harte's dsk2woz command-line tool. (https://github.com/TomHarte/dsk2woz)
 
 Usage:
 
